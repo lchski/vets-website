@@ -53,7 +53,7 @@ if you:
 
 
 ### Noncompetitive Hiring
-You may be eligible for a federal position without having to compete with the public. This is called Noncompetitive Hiring. If you have a 30% or more service-connected disability or a severe physical, intellectual, or psychological disability, you may be placed on a fast track to a position. 
+You may be eligible for a federal position without having to compete with the public. If you have a 30% or more service-connected disability or a severe physical, intellectual, or psychological disability, you may be placed on a fast track to a position. 
 In order to apply for one of these jobs, you must provide the following documents:
 
 - SF-15, Application for 10-Point Veteran Preference
