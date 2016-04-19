@@ -31,8 +31,7 @@ If you are a Veteran or Servicemember with service-connected disabilities that p
 
 <li>
 <a href="/vre/service-disabled/return-job/">
-<h5>Existing Position</h5>
-<span>Would you like to return to a job you previously held?</span>
+<h5>Would you like to return to a job you previously held?</h5>
 </a>
 </li>
 
@@ -50,8 +49,7 @@ If you are a Veteran or Servicemember with service-connected disabilities that p
 
 <li>
 <a href="/vre/service-disabled/new-skills/">
-<h5>New Skills</h5>
-<span>Do you need new skills for a vocational goal?</span>
+<h5>Do you need new skills for a vocational goal?</h5>
 </a>
 </li>
 
