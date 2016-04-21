@@ -22,26 +22,24 @@ template: 4-action-page
 <div markdown="1">
 If you want to follow a career path that uses your existing skillset, Vocational Rehabilitation and Employment (VR&amp;E) can help you with your job search through counseling and rehabilitation services that address your interests, abilities, and aptitudes. This support supplements other [VA employment search resources](/employment/job-seekers/employment-support/).
 
-### Are you eligible for this VR&amp;E track?
-
 </div>
 
 <div class="call-out" markdown="1">
+
+### Are you eligible for this VR&amp;E track?
 
 Yes, if:
 
 - You are a Veteran or Servicemember with a service-connected disability and an employment barrier. 
 - You already have experience, education, or training in your field of interest.
-</div>
 
-<div class="call-out" markdown="1">
+<br>
 
 ### Who is covered
 You 
 </div>
 
 <div markdown="1">
-
 ### Benefits
 - Comprehensive skills assessment
 - Preparation for a new job

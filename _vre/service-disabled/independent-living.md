@@ -19,15 +19,13 @@ template: 4-action-page
 <div class="small-12 medium-8 columns">
 
 <div markdown="1">
+VA may provide independent-living services if your service-connected disability impairs your ability to work and you need these services to live more independently. You may also receive independent-living services as you work to gain employment if that’s a goal you and your counselor have created. 
 
-VA may provide independent-living services if your service-connected disability impairs your ability to work and you need these services to live more independently. You may also receive independent-living services as you work to gain employment if that’s a goal you and your counselor have created. In both cases, your counselor can help you restore your daily-living activities.
-
-### Are you eligible for independent-living services?
-
+In both cases, your counselor can help you restore your daily-living activities.
 </div>
 
-
 <div class="call-out" markdown="1">
+### Are you eligible for independent-living services?
 
 Yes, if:
 
@@ -39,9 +37,8 @@ Yes, if:
 
 <div markdown="1">
 
-<hr>
 
-#### How to Apply
+### How to Apply
 
 You may get a referral from your case manager after enrolling in the [Vocational Rehabilitation &amp; Employment](/vre/apply-vre/) program.
 

@@ -22,17 +22,17 @@ template: 4-action-page
 <div markdown="1">
 If service-connected disabilities make it difficult for you to succeed in your career path, you may qualify for training through Vocational Rehabilitation and Employment (VR&amp;E) that will help you find employment in a different field that better suits your abilities. You may be eligible for this even if you also qualify for [GI Bill benefits](/education/gi-bill/).  However, you must decide which benefit you want to use. 
 
-### Are you eligible for VR&amp;E assistance?
+</div>
 
 <div class="call-out" markdown="1">
+### Are you eligible for VR&amp;E assistance?
+
 Yes, if:
 
 - You are a Veteran or Servicemember with a service-connected disability, have an employment barrier or handicap, and are [enrolled in VR&amp;E](/vre/apply-vre/).
 - Your service-connected disabilities make it difficult for you to prepare for, get, and keep suitable employment. 
-</div>
 
-
-<div class="call-out" markdown="1">
+<br>
 
 ### Who can apply
 You and your family
@@ -43,6 +43,8 @@ You and your family
 - Comprehensive skills assessment
 - Access to a career counselor
 - Education or training for a suitable vocational field, possibly including volunteer positions and on-the-job training
+
+<hr>
 
 ### How it works
 [Apply for VR&amp;E](/vre/apply-vre/) to find a Vocational Rehabilitation Counselor who can assist you.
